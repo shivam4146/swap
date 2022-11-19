@@ -2,7 +2,7 @@ public class git {
 
     public static void main(String[] args) {
 
-        float first = 1.20f, second = 2.45f;
+        float first = 1.50f, second =3.5f;
 
         System.out.println("--Before swap--");
         System.out.println("First number = " + first);
